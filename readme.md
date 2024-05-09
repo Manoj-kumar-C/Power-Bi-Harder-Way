@@ -1,1 +1,1 @@
-![alt text](data-analyst_page-0001.jpg)
+![alt text](./pics/data-analyst_page-0001.jpg)
