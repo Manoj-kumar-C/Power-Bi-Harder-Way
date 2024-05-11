@@ -23,3 +23,7 @@ Customization:
     Callout Value 
     Category Labelf9v
     ```
+
+
+How to make a individual customization -- How to make reduce border radius 
+
